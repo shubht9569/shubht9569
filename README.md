@@ -1,4 +1,4 @@
-# Hi, I'm Shubhanth 👋
+# Hi, I'm Shubh 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
